@@ -4,13 +4,11 @@ Welcome to my GitHub profile! I'm a passionate software developer from Coimbator
 
 ## 🚀 About Me
 - 💻 I am currently pursuing a Bachelor of Engineering in Computer Science and Engineering at Dhaanish Ahmed Institute of Technology.
-- 🎓 My current CGPA is 8.0/10 (Up to 6th Sem).
 - 🌱 I’m currently learning more about real-time applications.
 - 💬 Ask me about backend development, machine learning, and full-stack web development.
 - 📫 How to reach me:
   - Email: sr.ishaaq00@gmail.com
   - LinkedIn: [syed-ishaaq-s-r](https://www.linkedin.com/in/syed-ishaaq-53251b289/)
-  - Phone: +91-6366119500
 
 # 🛠️ Technologies and Tools
 

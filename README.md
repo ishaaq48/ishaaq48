@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a passionate software developer from Coimbator
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaaq48&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/syed-ishaaq-s-r/)
+- [LinkedIn](https://www.linkedin.com/in/syed-ishaaq-53251b289/)
 - [GitHub](https://github.com/ishaaq48)
 
 Thanks for stopping by! 😄

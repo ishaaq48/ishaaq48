@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm a passionate software developer from Coimbatore, India, with a love for creating innovative and efficient solutions. Here's a bit about me:
 
 ## 🚀 About Me
-- 💻 I am currently pursuing a Bachelor of Engineering in Computer Science and Engineering at Dhaanish Ahmed Institute of Technology.
+- 💻 I am a Software Developer.
 - 🌱 I’m currently learning more about real-time applications.
-- 💬 Ask me about backend development, machine learning, and full-stack web development.
+- 💬 Ask me about full-stack web development.
 - 📫 How to reach me:
   - Email: sr.ishaaq00@gmail.com
   - LinkedIn: [syed-ishaaq-s-r](https://www.linkedin.com/in/syed-ishaaq-53251b289/)

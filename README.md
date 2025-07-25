@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software developer from Coimbator
 - 🌱 I’m currently learning more about real-time applications.
 - 💬 Ask me about full-stack web development.
 - 📫 How to reach me:
-  - Email: sr.ishaaq00@gmail.com
+  - Email: syedishaaq48@gmail.com
   - LinkedIn: [syed-ishaaq-s-r](https://www.linkedin.com/in/syed-ishaaq-53251b289/)
 
 # 🛠️ Technologies and Tools
